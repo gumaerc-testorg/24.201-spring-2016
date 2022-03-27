@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 76943f5f-33da-2cce-a370-df9616449ea9
 resourcetype: Document
 title: "Gayle Rubin\u2019s \u201CThe Traffic in Women\u201D"
 uid: 2aafc37d-7c71-9075-0180-c104878aa2c7

@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 57499839-e0a9-d38f-e743-e3fef9391d6f
 resourcetype: Document
 title: Guidelines for Event Response Paper
 uid: 15258035-2de4-b3d8-a521-74396887f0fc

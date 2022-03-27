@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 57499839-e0a9-d38f-e743-e3fef9391d6f
 resourcetype: Document
 title: 'Adam Smith: The Origin of the Division of Labor'
 uid: 0dc2c47d-370f-63e4-8c32-a880619ef6a9

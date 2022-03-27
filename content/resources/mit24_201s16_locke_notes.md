@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 76943f5f-33da-2cce-a370-df9616449ea9
 resourcetype: Document
 title: 'Locke on Property '
 uid: 5ef55298-8cf6-9ad2-65e9-3182946f5305

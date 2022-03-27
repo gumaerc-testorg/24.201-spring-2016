@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 57499839-e0a9-d38f-e743-e3fef9391d6f
 resourcetype: Document
 title: First Paper Prompts
 uid: 1c7b542c-008f-d208-84a7-4a2c3228e107

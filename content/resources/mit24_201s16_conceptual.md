@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Related Resources
 parent_type: CourseSection
+parent_uid: 0f10f22b-ce57-1620-c077-ff4f4ac55e1a
 resourcetype: Document
 title: Conceptual Poverty as a Cause of Political Polarization
 uid: 57f371ac-3cc1-b296-2392-c5465de8c63a
