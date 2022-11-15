@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains additional resources and readings for this course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
@@ -24,7 +25,7 @@ Martin, Bonnie. "[Slavery's Invisible Engine: Mortgaging Human Property](http://
 
 Barber, Elizabeth Wayland. _Women's Work: The First 20,000 Years - Women, Cloth, and Society in Early Times_. W. W. Norton & Company, 1995. ISBN: 9780393313482.
 
-Delphy, Christine. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["The Main Enemy." (PDF)](https://libcom.org/files/delphymainenemy.pdf) _Feminist Issues_ (1980).
+Delphy, Christine. ["The Main Enemy." (PDF)](https://libcom.org/files/delphymainenemy.pdf) _Feminist Issues_ (1980).
 
 Boyer, Anne. "[What Tender Possibilities: Two Mediations on the Oikos, Part One](http://digitallabor.commons.gc.cuny.edu/2014/03/05/what-tender-possibilities-two-meditations-on-the-oikos/)." _Digital Labor Working Group_, March 2014.
 
@@ -56,4 +57,4 @@ Ellickson, Robert C. "[Property in Land](http://digitalcommons.law.yale.edu/fss_
 
 Polyani, Karl. Chapter 4 in _The Great Transformation: The Political and Economic Origins of Our Time_. 2nd edition. Beacon Press, 2001. ISBN: 9780807056431. \[Preview with [Google Books](http://books.google.com/books?id=YfpIs1Z6B2sC&pg=PAfrontcover)\]
 
-["Conceptual Poverty as a Cause of Political Polarization" (PDF)]({{< baseurl >}}/resources/mit24_201s16_conceptual). (Courtesy of Stephen Nathanson. Used with permission.)
+{{% resource_link 57f371ac-3cc1-b296-2392-c5465de8c63a "\"Conceptual Poverty as a Cause of Political Polarization\" (PDF)" %}}. (Courtesy of Stephen Nathanson. Used with permission.)

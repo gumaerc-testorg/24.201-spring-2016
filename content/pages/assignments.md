@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides guidelines, instructions, and examples of student
+  work for the course writing assignments.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -7,19 +9,19 @@ title: Assignments
 uid: 57499839-e0a9-d38f-e743-e3fef9391d6f
 ---
 
-[Guidelines for Papers (PDF)]({{< baseurl >}}/resources/mit24_201s16_guidelines)
+{{% resource_link 91769b03-bda6-e377-fe69-cb1bf74459c9 "Guidelines for Papers (PDF)" %}}
 
 Weekly Responses
 ----------------
 
-[Guidelines for Weekly Responses (PDF)]({{< baseurl >}}/resources/mit24_201s16_responses)
+{{% resource_link 7c623a2d-1680-9b05-a270-518d10bf2d25 "Guidelines for Weekly Responses (PDF)" %}}
 
 Students are expected to turn in 10 reflections throughout the semester. Weekly responses are based on readings and class discussion.
 
 Event Response Paper
 --------------------
 
-[Guidelines for Event Response Paper (PDF)]({{< baseurl >}}/resources/mit24_201s16_eventresponse)
+{{% resource_link 15258035-2de4-b3d8-a521-74396887f0fc "Guidelines for Event Response Paper (PDF)" %}}
 
 MIT students were required to attend an event in the Cambridge / Boston area related to the course. The following were a few of the suggested events students could pick from:
 
@@ -32,15 +34,15 @@ MIT students were required to attend an event in the Cambridge / Boston area rel
 First Paper
 -----------
 
-[First Paper Prompts (PDF)]({{< baseurl >}}/resources/mit24_201s16_first_paper)
+{{% resource_link 1c7b542c-008f-d208-84a7-4a2c3228e107 "First Paper Prompts (PDF)" %}}
 
 Second Paper
 ------------
 
-[Second Paper Prompts (PDF)]({{< baseurl >}}/resources/mit24_201s16_second_paper)
+{{% resource_link 2862ea85-2d2e-4f26-0b8a-d71293e17365 "Second Paper Prompts (PDF)" %}}
 
 _Example Student Work_ (Both papers are courtesy of Richard Ibekwe and used with permission.)
 
-First Paper - ["Thomas Hobbes: Does Might Make Right?" (PDF)]({{< baseurl >}}/resources/mit24_201s16_paper1).
+First Paper - {{% resource_link da083732-5415-4cd5-9d60-cca062cacbcd "\"Thomas Hobbes: Does Might Make Right?\" (PDF)" %}}.
 
-Second Paper - ["Adam Smith: The Origin of the Division of Labor" (PDF)]({{< baseurl >}}/resources/mit24_201s16_paper2).
+Second Paper - {{% resource_link 0dc2c47d-370f-63e4-8c32-a880619ef6a9 "\"Adam Smith: The Origin of the Division of Labor\" (PDF)" %}}.
