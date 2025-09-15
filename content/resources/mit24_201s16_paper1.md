@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Example student work for the first writing assignment of the course.
-file: /courses/24-201-topics-in-the-history-of-philosophy-justice-political-economy-spring-2016/da08373254154cd59d60cca062cacbcd_MIT24_201S16_Paper1.pdf
+file: /ol-ocw-studio-app/courses/24-201-topics-in-the-history-of-philosophy-justice-political-economy-spring-2016/da08373254154cd59d60cca062cacbcd_MIT24_201S16_Paper1.pdf
+file_size: 158065
 file_type: application/pdf
 learning_resource_types:
 - Assignments

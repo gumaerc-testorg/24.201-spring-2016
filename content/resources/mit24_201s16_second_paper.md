@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Prompts for the second writing assignment.
-file: /courses/24-201-topics-in-the-history-of-philosophy-justice-political-economy-spring-2016/2862ea852d2e4f260b8ad71293e17365_MIT24_201S16_Second_Paper.pdf
+file: /ol-ocw-studio-app/courses/24-201-topics-in-the-history-of-philosophy-justice-political-economy-spring-2016/2862ea852d2e4f260b8ad71293e17365_MIT24_201S16_Second_Paper.pdf
+file_size: 126426
 file_type: application/pdf
 learning_resource_types:
 - Assignments

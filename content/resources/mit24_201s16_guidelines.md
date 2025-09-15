@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Guidelines for writing papers for the course.
-file: /courses/24-201-topics-in-the-history-of-philosophy-justice-political-economy-spring-2016/91769b03bda6e377fe69cb1bf74459c9_MIT24_201S16_Guidelines.pdf
+file: /ol-ocw-studio-app/courses/24-201-topics-in-the-history-of-philosophy-justice-political-economy-spring-2016/91769b03bda6e377fe69cb1bf74459c9_MIT24_201S16_Guidelines.pdf
+file_size: 233287
 file_type: application/pdf
 learning_resource_types:
 - Assignments

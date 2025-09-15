@@ -2,7 +2,8 @@
 content_type: resource
 description: Reading assignment and study questions on the fifth chapter of Locke's
   Second Treatise on Civil Government.
-file: /courses/24-201-topics-in-the-history-of-philosophy-justice-political-economy-spring-2016/5ef552988cf69ad265e93182946f5305_MIT24_201S16_Locke_Notes.pdf
+file: /ol-ocw-studio-app/courses/24-201-topics-in-the-history-of-philosophy-justice-political-economy-spring-2016/5ef552988cf69ad265e93182946f5305_MIT24_201S16_Locke_Notes.pdf
+file_size: 179929
 file_type: application/pdf
 learning_resource_types:
 - Readings

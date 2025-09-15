@@ -2,7 +2,8 @@
 content_type: resource
 description: Reading assignment and study questions on Gayle Rubin's "The Traffic
   in Women."
-file: /courses/24-201-topics-in-the-history-of-philosophy-justice-political-economy-spring-2016/2aafc37d7c7190750180c104878aa2c7_MIT24_201S16_Gayle_Notes.pdf
+file: /ol-ocw-studio-app/courses/24-201-topics-in-the-history-of-philosophy-justice-political-economy-spring-2016/2aafc37d7c7190750180c104878aa2c7_MIT24_201S16_Gayle_Notes.pdf
+file_size: 192923
 file_type: application/pdf
 learning_resource_types:
 - Readings

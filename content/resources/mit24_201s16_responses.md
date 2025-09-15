@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Guidelines for writing weekly reflections on readings and class discussion.
-file: /courses/24-201-topics-in-the-history-of-philosophy-justice-political-economy-spring-2016/7c623a2d16809b05a270518d10bf2d25_MIT24_201S16_Responses.pdf
+file: /ol-ocw-studio-app/courses/24-201-topics-in-the-history-of-philosophy-justice-political-economy-spring-2016/7c623a2d16809b05a270518d10bf2d25_MIT24_201S16_Responses.pdf
+file_size: 89662
 file_type: application/pdf
 learning_resource_types:
 - Assignments

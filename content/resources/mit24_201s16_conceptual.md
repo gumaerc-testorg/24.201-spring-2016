@@ -2,7 +2,8 @@
 content_type: resource
 description: 'Charts on capitalism versus socialism, forms of libertarian capitalism,
   and forms of welfare state. '
-file: /courses/24-201-topics-in-the-history-of-philosophy-justice-political-economy-spring-2016/57f371ac3cc1b2962392c5465de8c63a_MIT24_201S16_Conceptual.pdf
+file: /ol-ocw-studio-app/courses/24-201-topics-in-the-history-of-philosophy-justice-political-economy-spring-2016/57f371ac3cc1b2962392c5465de8c63a_MIT24_201S16_Conceptual.pdf
+file_size: 209044
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
